@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Jai Jhulelal_/\_
 Use the left arrow to go back!
